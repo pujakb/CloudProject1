@@ -23,7 +23,8 @@ Single AZ RDS</br>
 CloudFront</br>
 S3</br>
 
+**Screen shots-**
 ![Screenshot](R53.png)
 ![Screenshot](RDS.png)
-![Screenshot](Connection.png)
+![Screenshot](connection.png)
 
